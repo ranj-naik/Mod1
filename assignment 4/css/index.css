@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(252, 252, 252);
+    
+}
+
+section h1{
+    font-size: 50px;
+    border: 0px solid rgb(213, 221, 255);
+    padding: 10px;
+    margin: 0px;
+    text-shadow: 2px 2px rgb(255, 255, 255);
+}
+
+p.p1{
+    font-size: larger;
+}
+
+p#intro{
+    font-style:italic;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: justify;
+    width: 500px;
+    line-height: 1.5;
+    background-color: rgb(214, 209, 209);
+}
+
+section li{
+    font-size: larger;
+}
+
+section ul#skill{
+    list-style: none;
+    border: 5px dotted black;
+    width: 30%;
+}
